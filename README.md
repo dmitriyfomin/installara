@@ -20,5 +20,5 @@ $ chmod +x installara
 ```
 $ ./installara
 ```
-* Press 1, then enter your domain name or project folder name, press Enter. 
-* Enter the version of Laravel (for this installer >=5) and press Enter to start.
+* Press 1, then enter your domain name or project folder name, press Enter. Press 2 to exit.
+* Enter the version of Laravel (for this installer >=5. To download last version press Enter) and press Enter to start.
