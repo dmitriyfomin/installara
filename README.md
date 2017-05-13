@@ -12,6 +12,7 @@ Laravel Framework 5 Installer for GNU/Linux (Desktop version)
 
 ## :octocat: Screenshots ###
 <img src="/images/img.png"></img>
+<img src="/images/img.png"></img>
 # How to use
 ```
 $ chmod +x installara
